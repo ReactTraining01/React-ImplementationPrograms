@@ -17,7 +17,7 @@ import style from './AppStyle.module.css';
 import Form from './components/Form';
 import LifeCycleA from './components/LifeCycleA';
 import LifeCycleB from './components/LifeCycleB';
-//updated branch settings
+
 
 
 
