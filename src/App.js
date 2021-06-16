@@ -20,6 +20,7 @@ import LifeCycleB from './components/LifeCycleB';
 import FragmentDemo from './components/FragmentDemo';
 import Table from './components/Table';
 import ParentComp from './components/ParentComp';
+import RefsDemo from './components/RefsDemo';
 
 
 
@@ -37,8 +38,9 @@ class App extends Component{
   render(){
   return (
     <div className="App">
-      <ParentComp/>
-       {/* <Table/>
+       <RefsDemo/>
+       {/*<ParentComp/>
+       <Table/>
      <FragmentDemo/>
       <LifeCycleA/>
           <Form/>
